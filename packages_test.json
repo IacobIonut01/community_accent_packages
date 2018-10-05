@@ -1,22 +1,22 @@
 {
 	"accents": [{
-		"0": [{
+		"0": {
 			"colorHex": "#1a96f0",
 			"colorName": "Oxygen",
 			"packageName": "com.android.dot.oxygen",
 			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/OxygenTheme.apk"
-		}],
-		"1": [{
+		},
+		"1": {
 			"colorHex": "#4285f4",
 			"colorName": "Pixel",
 			"packageName": "com.android.dot.pixel",
 			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/PixelTheme.apk"
-		}],
-		"2": [{
+		},
+		"2": {
 			"colorHex": "#8a65ef",
 			"colorName": "Purple",
 			"packageName": "com.android.dot.purple",
 			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/PurpleTheme.apk"
-		}]
+		}
 	}]
 }
