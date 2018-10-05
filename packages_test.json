@@ -1,10 +1,8 @@
 {
-  "accents" : [
-   {
-      "colorHex": "#fafafa",
-      "colorName": "God Color",
-      "packageName": "com.dot.accent.godcolor",
-       "directUrl" : "https://docs.google.com/uc?export=download&id=1rInINFhWfn3GokYFXzaWEo6hWlPa3Mnd"
-   }
-  ]
+	"accents": [{
+		"colorHex": "#fafafa",
+		"colorName": "God Color",
+		"packageName": "com.dot.accent.godcolor",
+		"directUrl": "https://docs.google.com/uc?export=download&id=1rInINFhWfn3GokYFXzaWEo6hWlPa3Mnd"
+	}]
 }
