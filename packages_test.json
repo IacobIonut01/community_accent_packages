@@ -1,8 +1,8 @@
 {
 	"accents": [{
-		"colorHex": "#fafafa",
-		"colorName": "God Color",
-		"packageName": "com.dot.accent.godcolor",
-		"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/PixelThemeOverlay.apk"
+		"colorHex": "#1a96f0",
+		"colorName": "Oxygen",
+		"packageName": "com.android.dot.oxygen",
+		"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/OxygenTheme.apk"
 	}]
 }
