@@ -18,5 +18,23 @@
 			"packageName": "com.android.dot.purple",
 			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/PurpleTheme.apk"
 		}
+		"3": {
+			"colorHex": "#E34136",
+			"colorName": "Red",
+			"packageName": "com.android.dot.red",
+			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/RedTheme.apk"
+		}
+		"4": {
+			"colorHex": "#FF5722",
+			"colorName": "Orange",
+			"packageName": "com.android.dot.orange",
+			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/OrangeTheme.apk"
+		}
+		"5": {
+			"colorHex": "#f260cc",
+			"colorName": "Pink",
+			"packageName": "com.android.dot.pink",
+			"directUrl": "https://github.com/IacobIonut01/community_accent_packages/raw/master/PinkTheme.apk"
+		}
 	}]
 }
